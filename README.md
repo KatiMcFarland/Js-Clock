@@ -4,3 +4,6 @@
 - Customized the CSS for a dynamic look 
 - Future:
 - add css animation
+
+![The Site](/Desktop/Clock.jpeg)
+
